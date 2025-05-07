@@ -1,0 +1,7 @@
+organization=wiss888
+projectKey=JeuMines
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.63082
+dashboardUrl=https://sonarcloud.io/dashboard?id=JeuMines
+ceTaskId=AZasNltUmQ7umiALyTQF
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZasNltUmQ7umiALyTQF
